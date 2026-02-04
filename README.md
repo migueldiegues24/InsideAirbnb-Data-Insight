@@ -103,14 +103,19 @@ Link para o protótipo Figma — adicionar quando estiver disponível.
 ## Como Executar o Projeto
 
 Instalar dependências:
+```bash
 npm install
+```
 
 Executar em modo desenvolvimento:
+```bash
 npm run dev
+```
 
 Compilar para produção:
+```bash
 npm run build
-
+```
 ---
 
 ## Apresentação Final

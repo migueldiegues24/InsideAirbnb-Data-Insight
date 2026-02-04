@@ -68,7 +68,7 @@ Gestão de utilizador:
 ├── Relatório fase1.pdf
 ├── VideoGrupo24.mp4
 └── vite.config.js
-``
+```
 ---
 
 ## Tecnologias Utilizadas

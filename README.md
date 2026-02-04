@@ -59,7 +59,6 @@ Gestão de utilizador:
 │   ├── main.css
 │   └── main.js
 │
-├── .gitignore
 ├── db.json
 ├── index.html
 ├── package-lock.json

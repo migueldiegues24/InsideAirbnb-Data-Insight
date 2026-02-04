@@ -1,0 +1,21 @@
+:root {
+  --bg-escuro: #18181b;
+  --bg-cartao: #27272a;
+  --bg-branco: #ffffff;
+  
+  --cor-primaria: #6366f1;
+  --cor-primaria-hover: #4f46e5;
+  
+  --texto-branco: #f4f4f5;
+  --texto-cinza: #a1a1aa;
+  --texto-preto: #1f2937;
+  --texto-muted: #a1a1aa;
+
+  --success: #10b981;
+  --error: #ef4444;
+  --warning: #f59e0b;
+  --info: #3b82f6;
+  
+  --borda: #3F3F46;
+  --borda-sutil: rgba(255, 255, 255, 0.1);
+}

@@ -1,0 +1,24 @@
+:root {
+  --cor-primaria: #4F46E5;     
+  --cor-primaria-hover: #4B4DCE;
+  
+  --bg-escuro: #1E1E1E;
+  --bg-cartao: #2A2A2A;
+  --bg-branco: #FFFFFF;
+  
+  --texto-branco: #F3F3F3;
+  --texto-cinza: #C8C8C8;
+  --texto-preto: #000000;
+  
+  --borda-sutil: #86868B;
+
+  --warning: #FFB020;
+  --success: #10B981;
+  --error: #EF4444;
+  --info: #EAF3FB;
+}
+
+* {
+  box-sizing: border-box;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+}

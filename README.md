@@ -107,15 +107,16 @@ Instalar dependências:
 npm install
 ```
 
-Executar em modo desenvolvimento:
+Iniciar Base de Dados:
+```bash
+npx json-server db.json
+```
+
+Iniciar o servidor de desenvolvimento:
 ```bash
 npm run dev
 ```
 
-Compilar para produção:
-```bash
-npm run build
-```
 ---
 
 ## Apresentação Final

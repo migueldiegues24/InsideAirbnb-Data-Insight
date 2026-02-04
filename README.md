@@ -96,7 +96,7 @@ Cada perfil de utilizador foi integrado nas decisões de design:
 - Vereadora → dashboards e alertas  
 - Ativista → gráficos simples e diretos  
 
-Link para o protótipo Figma — adicionar quando estiver disponível.
+[Link para o protótipo Figma](https://www.figma.com/design/koHZ67jtA6irCU53Xs0xQg/IPM-Projeto?node-id=0-1&p=f&t=P5P2p54X7k7ntn7L-0)
 
 ---
 

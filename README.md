@@ -45,28 +45,30 @@ Gestão de utilizador:
 
 ## Estrutura do Projeto
 
-db/
-  data/
-  build_jsondb.py
-  node_modules/
-
-src/
-  assets/
-  components/
-  App.vue
-  main.css
-  main.js
-
-.gitignore
-db.json
-index.html
-package-lock.json
-package.json
-README.md
-Relatório fase1.pdf
-VideoGrupo24.mp4
-vite.config.js
-
+```text
+.
+├── db/
+│   ├── data/
+│   ├── build_jsondb.py
+│   └── node_modules/
+│
+├── src/
+│   ├── assets/
+│   ├── components/
+│   ├── App.vue
+│   ├── main.css
+│   └── main.js
+│
+├── .gitignore
+├── db.json
+├── index.html
+├── package-lock.json
+├── package.json
+├── README.md
+├── Relatório fase1.pdf
+├── VideoGrupo24.mp4
+└── vite.config.js
+``
 ---
 
 ## Tecnologias Utilizadas
